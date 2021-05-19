@@ -7,7 +7,7 @@ products:
 urlFragment: microsoft-teams-app-bulletins
 ---
 
-# Milestones App Template
+# Bulletins App Template
 
 | [Documentation](https://docs.microsoft.com/en-us/powerapps/teams/bulletins) | [Deployment guide]() | [Architecture]() |
 | ---- | ---- | ---- |
