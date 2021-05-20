@@ -4,24 +4,14 @@ languages:
 - PowerApps
 products:
 - office-teams
-urlFragment: microsoft-teams-app-bulletins
+urlFragment: microsoft-teams-app-perspectives
 ---
 
-# Bulletins App Template
+# Perspectives App Template
 
-| [Documentation](https://docs.microsoft.com/en-us/powerapps/teams/bulletins) | [Deployment guide]() | [Architecture]() |
+| [Documentation]() | [Deployment guide]() | [Architecture]() |
 | ---- | ---- | ---- |
 
-This can be viewed as the PowerApps version of the Azure-based [Great Ideas](https://github.com/OfficeDev/microsoft-teams-apps-greatideas).
-
-The Bulletins sample app for Microsoft Teams provides a central location for all company communication such as broadcasts, memos, announcements, and company news. The app allows you to:
-
-Create bulletin posts.
-Categorize bulletin posts.
-Search and read posts.
-Bookmark posts to read later.
-
-For more information, please visit: https://docs.microsoft.com/en-us/powerapps/teams/bulletins
 
 ## Contributing
 
