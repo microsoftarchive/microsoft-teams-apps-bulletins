@@ -7,7 +7,7 @@ products:
 urlFragment: microsoft-teams-app-perspectives
 ---
 
-# Perspectives App Template
+# Bulletins App Template
 
 | [Documentation]() | [Deployment guide]() | [Architecture]() |
 | ---- | ---- | ---- |
