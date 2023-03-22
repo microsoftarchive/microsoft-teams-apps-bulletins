@@ -7,7 +7,9 @@ products:
 urlFragment: microsoft-teams-app-perspectives
 ---
 
-# Bulletins App Template
+# This repository has been archived. The code, app package, and Dataverse solution for this app can be found in the [microsoft/teams-powerapps-app-templates](https://github.com/microsoft/teams-powerapps-app-templates) open source repository.
+
+## Bulletins App Template
 
 | [Documentation]() | [Deployment guide]() | [Architecture]() |
 | ---- | ---- | ---- |
